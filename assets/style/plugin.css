@@ -22,7 +22,7 @@
 }
 
 #anchor-navigation-ex-navbar ul {
-    display: none;
+    display: block;
     text-align: left;
     padding-right: 10px;
     padding-left: 10px;
@@ -30,7 +30,7 @@
 }
 
 #anchor-navigation-ex-navbar:hover ul {
-    display: block;
+    display: none;
 }
 
 #anchor-navigation-ex-navbar ul li a {
