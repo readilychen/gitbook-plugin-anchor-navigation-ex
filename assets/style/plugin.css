@@ -28,8 +28,19 @@
     padding-left: 10px;
     list-style-type: none;
 }
+#anchor-navigation-ex-navbar input {
+    margin-left: 90%;
+    display: block;
+}
+#anchor-navigation-ex-navbar input:checked {
+    margin-left: 0%;
+    display: block;
+}
 
-#anchor-navigation-ex-navbar:hover ul {
+/* #anchor-navigation-ex-navbar div:active {
+    display: block;
+} */
+#anchor-navigation-ex-navbar input:checked~ul {
     display: none;
 }
 
