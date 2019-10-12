@@ -48,19 +48,19 @@ function handler(defaultConfig, config) {
  * @param bookIns
  */
 function handlerAll(bookIns) {
-    var config = bookIns.config.get('pluginsConfig')['anchor-navigation-ex'];
+    var config = bookIns.config.get('pluginsConfig')['anchor-navigation-expand'];
     var themeDefaultConfig = bookIns.config.get('pluginsConfig')['theme-default'];
     handler(defaultConfig, config);
     handler(defaultConfig.themeDefault, themeDefaultConfig);
 
-    if (config.isRewritePageTitle) {
+    if (config.hasOwnProperty("isRewritePageTitle") && config.isRewritePageTitle) {
         console.error("error:".error +
-            "plugins[anchor-navigation-ex]：isRewritePageTitle 配置只支持0.3.x 版本，" +
-            "请到https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex查看最新版本的配置项");
+            "plugins[anchor-navigation-expand]：isRewritePageTitle 配置只支持0.3.x 版本，" +
+            "请到https://github.com/zq99299/gitbook-plugin-anchor-navigation-expand查看最新版本的配置项");
         console.log("");
         console.error("error:".error +
-            "plugins[anchor-navigation-ex]：isRewritePageTitle Configuration only supports 0.3.x version，" +
-            "Please check here https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex  for the latest version of the configuration item");
+            "plugins[anchor-navigation-expand]：isRewritePageTitle Configuration only supports 0.3.x version，" +
+            "Please check here https://github.com/zq99299/gitbook-plugin-anchor-navigation-expand  for the latest version of the configuration item");
     }
 }
 /**

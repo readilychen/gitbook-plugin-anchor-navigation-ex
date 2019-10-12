@@ -8,21 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex.git"
+    "url": "git+https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand.git"
   },
   "keywords": [
     "gitbook",
     "plugin",
     "anchor-navigation-ex",
+    "anchor-navigation-expand",
     "ex",
     "expand"
   ],
   "author": "zhuqiang,yuan1994,readilychen",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/issues"
+    "url": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/issues"
   },
-  "homepage": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex#readme",
+  "homepage": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand#readme",
   "dependencies": {
     "cheerio": "*",
     "github-slugid": "1.0.1",
@@ -53,12 +54,12 @@
         "default": true,
         "title": "是否显示返回顶部按钮"
       },
-      "printLog":{
+      "printLog": {
         "type": "boolean",
         "default": false,
         "title": "是否打印处理进度日志，方便排错"
       },
-      "multipleH1":{
+      "multipleH1": {
         "type": "boolean",
         "default": true,
         "title": "false:去掉每页开头H1标题被重写成1. xxx（如果您的md文档遵循一个md文件只有一个H1标题的话)"
