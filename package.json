@@ -1,27 +1,28 @@
 {
   "name": "gitbook-plugin-anchor-navigation-ex",
   "version": "1.0.14",
-  "description": "Supports two navigation mode, title, anchor effect is the default theme, style, follow the website",
+  "description": "Supports two navigation mode, title, anchor effect is the default theme, style, follow the website, default expand inner page menu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex.git"
+    "url": "git+https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex.git"
   },
   "keywords": [
     "gitbook",
     "plugin",
     "anchor-navigation-ex",
-    "ex"
+    "ex",
+    "expand"
   ],
-  "author": "zhuqiang,yuan1994",
+  "author": "zhuqiang,yuan1994,readilychen",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/issues"
+    "url": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/issues"
   },
-  "homepage": "https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex#readme",
+  "homepage": "https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex#readme",
   "dependencies": {
     "cheerio": "*",
     "github-slugid": "1.0.1",
