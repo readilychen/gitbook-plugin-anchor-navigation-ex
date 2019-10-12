@@ -1,5 +1,5 @@
 # Update record
-## v 1.0.15 - 2019-01-16
+## v 1.0.16 - 2019-01-16
 - 默认展开页内目录.
 - 修复报错: "TypeError: Cannot read property 'isRewritePageTitle' of undefined"
 
