@@ -1,5 +1,5 @@
 # Update record
-## v 1.0.16 - 2019-01-16
+## v 1.0.17 - 2019-01-16
 - default expand inner page menu. 
 - fix error "TypeError: Cannot read property 'isRewritePageTitle' of undefined"
 

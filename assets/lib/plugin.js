@@ -73,7 +73,7 @@ function addId(header, titleCountMap) {
 function titleAddAnchor(header, id) {
     header.prepend('<a name="' + id + '" class="anchor-navigation-ex-anchor" '
         + 'href="#' + id + '">'
-        + '<input class="fa fa-link" aria-hidden="true">'
+        + '<i class="fa fa-link" aria-hidden="true"></i>'
         + '</a>');
 }
 
@@ -248,7 +248,7 @@ function handlerFloatNavbar($, tocs) {
         level3Icon = float.level3Icon;
     }
 
-    var html = "<div id='anchor-navigation-ex-navbar'><input class='" + floatIcon + "'><ul>";
+    var html = "<div id='anchor-navigation-ex-navbar'><input type='checkbox' class='" + floatIcon + "'><ul>";
     for (var i = 0; i < tocs.length; i++) {
         var h1Toc = tocs[i];
         if (h1Toc.name){

@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-anchor-navigation-expand",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Supports two navigation mode, title, anchor effect is the default theme, style, follow the website, default expand inner page menu",
   "main": "index.js",
   "scripts": {
