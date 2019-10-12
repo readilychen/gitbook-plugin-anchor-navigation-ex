@@ -1,4 +1,4 @@
-# gitbook-plugin-anchor-navigation-ex
+# gitbook-plugin-anchor-navigation-expand
 
 [![GitHub issues](https://img.shields.io/github/issues/zq99299/gitbook-plugin-anchor-navigation-ex.svg)](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/zq99299/gitbook-plugin-anchor-navigation-ex.svg)](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/issues?q=is%3Aissue+is%3Aclosed) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/zq99299/gitbook-plugin-anchor-navigation-ex/master/LICENSE) [![npm](https://img.shields.io/npm/v/gitbook-plugin-anchor-navigation-ex.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-ex) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-anchor-navigation-ex.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-ex)
 
@@ -53,16 +53,16 @@
 $ gitbook install ./
 ```
 
-就可以使用了，插件详细配置，[请点击这里查看](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/blob/master/doc/config.md)
+就可以使用了，插件详细配置，[请点击这里查看](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/config.md)
 
 
 或则单独安装插件
 
 ```
-$ npm install gitbook-plugin-anchor-navigation-ex --save
+$ npm install gitbook-plugin-anchor-navigation-expand --save
 ```
 
->open npm : https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-ex
+>open npm : https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-expand
 
 
 # 致敬
@@ -70,4 +70,5 @@ $ npm install gitbook-plugin-anchor-navigation-ex --save
 
 1. https://github.com/zhangzq/gitbook-plugin-navigator
 2. https://github.com/yaneryou/gitbook-plugin-anchor-navigation
+3. https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex
 
