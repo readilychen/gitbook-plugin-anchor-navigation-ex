@@ -8,13 +8,7 @@
 
 ===============	【UpdateRecord：[中文](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/updateRecord.md)，[English](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/updateRecord-en.md)】================
 
------
 
-:exclamation: 该项目停更，转向使用 vuepress 构建笔记了
-
------
-
-:exclamation: 插件配置不兼容V1.x 以下版本
 
 # 插件功能
 - [x] 给页面H1-H6标题增加锚点效果
