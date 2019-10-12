@@ -1,4 +1,8 @@
 # Update record
+## v 1.0.15 - 2019-01-16
+- default expand inner page menu. 
+- fix error "TypeError: Cannot read property 'isRewritePageTitle' of undefined"
+
 ## v 1.0.14 - 2019-01-16
 - [#38](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/pull/38) Merge this pr to add the following functions
 - fix bug : When the h1, h2, and h3 in md are in an abnormal order, the toc is missing. After the repair, the toc display will not be missed. It can be seen that the title is abnormal. V1.0.14+

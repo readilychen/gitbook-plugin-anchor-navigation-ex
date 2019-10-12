@@ -1,4 +1,8 @@
 # Update record
+## v 1.0.15 - 2019-01-16
+- 默认展开页内目录.
+- 修复报错: "TypeError: Cannot read property 'isRewritePageTitle' of undefined"
+
 ## v 1.0.13 - 2019-01-16
 - [#38](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex/pull/38) 合并该 pr，增加以下功能
 - fix bug : 当 md 中 h1,h2,h3 非正常顺序的时候导致 toc 缺失，修复后 toc 展示不会漏掉，可以看出来该标题是不正常的 V1.0.14+
