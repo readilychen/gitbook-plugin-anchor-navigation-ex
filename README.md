@@ -1,12 +1,12 @@
 # gitbook-plugin-anchor-navigation-expand
 
-[![GitHub issues](https://img.shields.io/github/issues/readilychen/gitbook-plugin-anchor-navigation-ex.svg)](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/readilychen/gitbook-plugin-anchor-navigation-ex.svg)](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/issues?q=is%3Aissue+is%3Aclosed) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/readilychen/gitbook-plugin-anchor-navigation-ex/master/LICENSE) [![npm](https://img.shields.io/npm/v/gitbook-plugin-anchor-navigation-ex.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-ex) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-anchor-navigation-ex.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-ex)
+[![GitHub issues](https://img.shields.io/github/issues/readilychen/gitbook-plugin-anchor-navigation-expand.svg)](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/issues) [![GitHub issues](https://img.shields.io/github/issues-closed/readilychen/gitbook-plugin-anchor-navigation-expand.svg)](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/issues?q=is%3Aissue+is%3Aclosed) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/readilychen/gitbook-plugin-anchor-navigation-expand/master/LICENSE) [![npm](https://img.shields.io/npm/v/gitbook-plugin-anchor-navigation-expand.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-expand) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-anchor-navigation-expand.svg)](https://www.npmjs.com/package/gitbook-plugin-anchor-navigation-expand)
 
 
 
-===============	【DOC：中文，[English](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/README_EN.md) 】================
+===============	【DOC：中文，[English](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/blob/master/doc/README_EN.md) 】================
 
-===============	【UpdateRecord：[中文](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/updateRecord.md)，[English](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/updateRecord-en.md)】================
+===============	【UpdateRecord：[中文](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/blob/master/doc/updateRecord.md)，[English](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/blob/master/doc/updateRecord-en.md)】================
 
 
 
@@ -28,7 +28,7 @@
 
 # 插件效果
 * 风格：极简
-* [点击查看效果图](https://github.com/readilychen/gitbook-plugin-anchor-navigation-ex/blob/master/doc/effectScreenshot.md)
+* [点击查看效果图](https://github.com/readilychen/gitbook-plugin-anchor-navigation-expand/blob/master/doc/effectScreenshot.md)
 
 
 # 怎么使用插件？
