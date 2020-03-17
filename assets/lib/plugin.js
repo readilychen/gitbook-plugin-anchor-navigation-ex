@@ -24,7 +24,7 @@ function handlerTocs($, page, modifyHeader) {
     $(':header').each(function (i, elem) {
         var header = $(elem);
         var id = addId(header, titleCountMap);
-
+        console.log(header.innerHTML)
         if (id) {
             switch (elem.tagName) {
                 case "h1":
